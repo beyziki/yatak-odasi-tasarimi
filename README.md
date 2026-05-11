@@ -2,6 +2,10 @@
 
 16.8 m² yatak odası için AutoCAD ile hazırlanmış mobilya yerleşim planı ve ölçülendirilmiş teknik çizim.
 
+## 📐 Plan Görünümü
+
+![Yatak Odası Planı](BeyzaErdem_YatakOdasi.png)
+
 ## 📁 Dosyalar
 
 | Dosya | Açıklama |
@@ -16,8 +20,7 @@
 ## 📐 Proje Detayları
 - **Alan:** 16.8 m²
 - **Oda Boyutları:** 450 cm x 350 cm
-- Mobilya yerleşim planı
-- Ölçülendirilmiş teknik çizim
+- Temel plan, mobilya yerleşimi, tamamlanmış plan ve ölçülendirilmiş plan
 
 ## 👩‍🎨 Geliştirici
 **Beyza Erdem** — TNC Group Staj Projesi
